@@ -34,8 +34,3 @@ This is a personal portfolio website built as part of a class assignment. The si
 - **HTML5**
 - **Tailwind CSS**
 - **JavaScript (optional)**
-
----
-
-## 📂 Folder Structure
-
